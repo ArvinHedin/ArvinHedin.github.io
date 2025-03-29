@@ -8,7 +8,7 @@ const services = [
     {
         name: 'Färgning',
         description: 'Färgning av håret för ett fräscht resultat.',
-        image: 'Fargning.jpg',
+        image: 'farg.png',
         price: 550
     },
     {
