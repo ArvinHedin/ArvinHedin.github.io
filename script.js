@@ -2,19 +2,19 @@ const services = [
     {
         name: 'Klippning',
         description: 'En professionell klippning för både dam och herr.',
-        image: 'Images/klippning.jpeg',
+        image: 'klippning.jpeg',
         price: 350
     },
     {
         name: 'Färgning',
         description: 'Färgning av håret för ett fräscht resultat.',
-        image: 'Images/färgning.jpg',
+        image: 'Fargning.jpg',
         price: 550
     },
     {
         name: 'Styling',
         description: 'Hårstyling för olika tillfällen.',
-        image: 'Images/styling.png',
+        image: 'styling.png',
         price: 400
     }
 ];
